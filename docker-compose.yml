@@ -26,8 +26,8 @@ services:
     volumes:
       - ./mysql:/var/lib/mysql
     environment:
-      MYSQL_DATABASE: homestead
-      MYSQL_USER: homestead
+      MYSQL_DATABASE: vurokrazia
+      MYSQL_USER: vurokrazia
       MYSQL_PASSWORD: 123456
       MYSQL_ROOT_PASSWORD: 123456
       SERVICE_TAGS: dev
