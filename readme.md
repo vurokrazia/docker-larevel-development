@@ -1,10 +1,9 @@
 # Repositorio para ejecutar laravel con docker
 
 Este repositorio lo creo con el fin de tener una base para ejecutar laravel, no tiene muchas configuraciones más que
-
 * php
 * composer
-* mysql
+* mysql 
 * nginx
 
 ## Pasos para ejecutar la imagen con docker composer
@@ -23,7 +22,6 @@ Este repositorio lo creo con el fin de tener una base para ejecutar laravel, no 
 * docker exec CONTAINER /usr/bin/mysqldump -u root --password=root DATABASE > backup.sql
 
 # Proyecto de larvel
-
 Debes colocar tu proyecto en src, esta carpeta es la raiz asi que puedes iniciar el repositorio en src y hacer pull.
 
-@vurokrazia
+[@vurokrazia]("https://twitter.com/vurokrazia")
