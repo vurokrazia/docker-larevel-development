@@ -23,4 +23,4 @@ Editar docker-compose.yml en mysql las siguientes variables con tus datos del pr
 * ``` docker exec CONTAINER /usr/bin/mysqldump -u root --password=root DATABASE > backup.sql ```
 ## Proyecto de larvel
 Debes colocar tu proyecto en src, esta carpeta es la raiz asi que puedes iniciar el repositorio en src, hacer pull y configurar tu entorno.
-[vurokrazia]("https://twitter.com/vurokrazia")
+[https://twitter.com/vurokrazia](url "vurokrazia")
